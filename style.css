@@ -1,0 +1,42 @@
+.topbar{ 
+    background-color:  rgb(27, 41, 56);
+    height: 70px;
+    margin: auto ;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;}
+
+h1{color:azure;
+    text-align: center;
+    font-size: 45px;
+    padding-top:10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+
+body{background-image: url(camp.jpg);
+    background-size: cover;
+    background-position: 100%;
+  
+
+    }
+
+h2{color:azure;
+    text-align: center;
+    font-size: 40px;
+    margin-top:460px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+.btn-primary{
+  
+    
+    border-radius: 300px;
+    padding: 1rem 2rem; 
+    text-align: center;
+    margin-top:1%;
+    
+   
+   }
+
+
+   #mc_embed_signup{text-align: center;}
