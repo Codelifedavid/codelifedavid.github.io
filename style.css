@@ -16,6 +16,10 @@ h1{color:azure;
 body{background-image: url(Camp.jpg);
     background-size: cover;
     background-position: 100%;
+    no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   
 
     }
